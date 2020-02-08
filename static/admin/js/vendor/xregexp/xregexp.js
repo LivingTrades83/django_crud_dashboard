@@ -1,3 +1,4 @@
+
 /***** xregexp.js *****/
 
 /*!
@@ -21,9 +22,9 @@ var XRegExp;
 XRegExp = XRegExp || (function (undef) {
     "use strict";
 
-    /*--------------------------------------
-     *  Private variables
-     *------------------------------------*/
+/*--------------------------------------
+ *  Private variables
+ *------------------------------------*/
 
     var self,
         addToken,
